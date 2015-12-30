@@ -1,7 +1,7 @@
 name: The Healthy Yacht Chef
 favicon: null
-layout_spectrum: 0.2710421378724277
-typography_spectrum: 0.02343336446210742
+layout_spectrum: 0.24947
+typography_spectrum: 0.26013
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.07019694661721587
-  lightness: 0.5962620701175183
-  saturation: 0.340434055775404
-  rhythmicContrast: 0.7264009900391102
+  brandStrength: 0.125
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
